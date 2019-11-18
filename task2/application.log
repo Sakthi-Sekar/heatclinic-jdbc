@@ -1,0 +1,501 @@
+2019-11-13 11:56:52,273  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 11:56:53,333  INFO [main] LogReports:28 - Application opened...
+2019-11-13 11:56:54,508  INFO [main] LogReports:28 - clicked on home
+2019-11-13 11:56:54,853  INFO [main] LogReports:28 - home validated
+2019-11-13 11:56:56,215  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 11:56:56,398  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 11:56:56,913  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 11:56:57,179  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 11:56:57,648  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 11:56:57,799  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 11:57:02,788  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 11:57:03,059  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 11:57:06,730  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 11:57:06,887  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 11:57:15,987  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 11:57:16,160  INFO [main] LogReports:28 - validated text
+2019-11-13 11:57:17,040  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 11:57:17,700  INFO [main] LogReports:28 - selected color
+2019-11-13 11:57:18,425  INFO [main] LogReports:28 - selected size
+2019-11-13 11:57:19,274  INFO [main] LogReports:28 - selected name
+2019-11-13 11:57:19,897  INFO [main] LogReports:28 - entered personalised name
+2019-11-13 11:57:20,530  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-13 11:57:21,688  INFO [main] LogReports:28 -  matches
+2019-11-13 11:57:21,841  INFO [main] LogReports:28 -  matches
+2019-11-13 11:57:22,010  INFO [main] LogReports:28 -  matches
+2019-11-13 11:57:22,146  INFO [main] LogReports:28 - matches
+2019-11-13 11:57:22,300  INFO [main] LogReports:28 - matches
+2019-11-13 11:57:24,251  INFO [main] LogReports:28 -  matches
+2019-11-13 12:55:02,275  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 12:55:06,226  INFO [main] LogReports:28 - Application opened...
+2019-11-13 12:55:08,637  INFO [main] LogReports:28 - clicked on home
+2019-11-13 12:55:08,804  INFO [main] LogReports:28 - home validated
+2019-11-13 12:55:10,311  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 12:55:10,474  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 12:55:11,668  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 12:55:11,825  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 12:55:14,341  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 12:55:14,491  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 12:55:16,725  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 12:55:16,881  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 12:55:18,931  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 12:55:19,080  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 12:55:20,104  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 12:55:20,257  INFO [main] LogReports:28 - validated text
+2019-11-13 12:55:20,751  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 12:55:21,549  INFO [main] LogReports:28 - selected color
+2019-11-13 12:55:22,318  INFO [main] LogReports:28 - selected size
+2019-11-13 12:55:23,061  INFO [main] LogReports:28 - selected name
+2019-11-13 12:55:23,438  INFO [main] LogReports:28 - entered personalised name
+2019-11-13 12:55:23,894  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-13 12:55:24,876  INFO [main] LogReports:28 -  matches
+2019-11-13 12:55:25,023  INFO [main] LogReports:28 -  matches
+2019-11-13 12:55:25,173  INFO [main] LogReports:28 -  matches
+2019-11-13 12:55:25,318  INFO [main] LogReports:28 - matches
+2019-11-13 12:55:25,467  INFO [main] LogReports:28 - matches
+2019-11-13 12:55:26,886  INFO [main] LogReports:28 -  matches
+2019-11-13 13:59:06,462  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 13:59:10,724  INFO [main] LogReports:28 - Application opened...
+2019-11-13 13:59:11,862  INFO [main] LogReports:28 - clicked on home
+2019-11-13 13:59:12,188  INFO [main] LogReports:28 - home validated
+2019-11-13 13:59:14,201  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 13:59:14,372  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 13:59:16,647  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 13:59:16,832  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 13:59:18,248  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 13:59:18,413  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 13:59:18,993  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 13:59:24,168  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 13:59:24,321  INFO [main] LogReports:28 - validated text
+2019-11-13 13:59:25,185  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 13:59:25,649  INFO [main] LogReports:28 - selected color
+2019-11-13 13:59:26,427  INFO [main] LogReports:28 - selected size
+2019-11-13 13:59:27,261  INFO [main] LogReports:28 - selected name
+2019-11-13 13:59:27,856  INFO [main] LogReports:28 - entered personalised name
+2019-11-13 13:59:28,402  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-13 15:20:18,003  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 15:23:26,559  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 15:29:43,744  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 15:34:54,223  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 15:35:18,304  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 15:35:20,475  INFO [main] LogReports:28 - Application opened...
+2019-11-13 15:35:21,581  INFO [main] LogReports:28 - clicked on home
+2019-11-13 15:35:21,733  INFO [main] LogReports:28 - home validated
+2019-11-13 15:35:23,324  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 15:35:23,512  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 15:35:28,874  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 15:35:29,047  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 15:35:32,799  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 15:35:32,972  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 15:35:35,537  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 15:35:35,716  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 15:35:37,684  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 15:35:37,834  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 15:35:39,622  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 15:35:39,796  INFO [main] LogReports:28 - validated text
+2019-11-13 15:35:40,291  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 15:35:41,098  INFO [main] LogReports:28 - selected color
+2019-11-13 15:35:41,825  INFO [main] LogReports:28 - selected size
+2019-11-13 15:35:42,620  INFO [main] LogReports:28 - selected name
+2019-11-13 15:35:42,994  INFO [main] LogReports:28 - entered personalised name
+2019-11-13 15:35:43,657  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-13 15:35:44,720  INFO [main] LogReports:28 -  matches
+2019-11-13 15:35:44,878  INFO [main] LogReports:28 -  matches
+2019-11-13 15:35:45,032  INFO [main] LogReports:28 -  matches
+2019-11-13 15:35:45,197  INFO [main] LogReports:28 - matches
+2019-11-13 15:35:45,347  INFO [main] LogReports:28 - matches
+2019-11-13 15:35:46,935  INFO [main] LogReports:28 -  matches
+2019-11-13 15:39:51,792  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 15:39:58,414  INFO [main] LogReports:28 - Application opened...
+2019-11-13 15:39:59,784  INFO [main] LogReports:28 - clicked on home
+2019-11-13 15:39:59,953  INFO [main] LogReports:28 - home validated
+2019-11-13 15:40:03,364  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 15:40:03,542  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 15:40:07,127  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 15:40:07,277  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 15:40:12,873  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 15:40:13,036  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 15:40:17,974  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 15:40:18,129  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 15:40:19,149  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 15:40:19,298  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 15:40:21,117  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 15:40:21,271  INFO [main] LogReports:28 - validated text
+2019-11-13 15:40:21,785  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 15:40:22,572  INFO [main] LogReports:28 - selected color
+2019-11-13 15:40:23,274  INFO [main] LogReports:28 - selected size
+2019-11-13 15:40:24,054  INFO [main] LogReports:28 - selected name
+2019-11-13 15:40:24,492  INFO [main] LogReports:28 - entered personalised name
+2019-11-13 15:40:25,043  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-13 15:40:25,994  INFO [main] LogReports:28 -  matches
+2019-11-13 15:40:26,149  INFO [main] LogReports:28 -  matches
+2019-11-13 15:40:26,306  INFO [main] LogReports:28 -  matches
+2019-11-13 15:40:26,460  INFO [main] LogReports:28 - matches
+2019-11-13 15:40:26,608  INFO [main] LogReports:28 - matches
+2019-11-13 15:40:28,152  INFO [main] LogReports:28 -  matches
+2019-11-13 15:46:17,305  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 15:46:19,018  INFO [main] LogReports:28 - Application opened...
+2019-11-13 15:46:20,293  INFO [main] LogReports:28 - clicked on home
+2019-11-13 15:46:20,458  INFO [main] LogReports:28 - home validated
+2019-11-13 15:46:21,832  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 15:46:22,001  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 15:46:24,321  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 15:46:24,484  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 15:46:26,535  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 15:46:26,716  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 15:46:27,173  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 15:46:32,326  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 15:46:32,487  INFO [main] LogReports:28 - validated text
+2019-11-13 15:46:32,942  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 15:46:33,800  INFO [main] LogReports:28 - selected color
+2019-11-13 15:46:34,587  INFO [main] LogReports:28 - selected size
+2019-11-13 15:46:35,315  INFO [main] LogReports:28 - selected name
+2019-11-13 15:46:35,689  INFO [main] LogReports:28 - entered personalised name
+2019-11-13 15:46:36,225  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-13 15:46:37,067  INFO [main] LogReports:28 -  matches
+2019-11-13 15:46:37,214  INFO [main] LogReports:28 -  matches
+2019-11-13 15:46:37,368  INFO [main] LogReports:28 -  matches
+2019-11-13 15:46:37,527  INFO [main] LogReports:28 - matches
+2019-11-13 15:46:37,673  INFO [main] LogReports:28 - matches
+2019-11-13 15:46:39,074  INFO [main] LogReports:28 -  matches
+2019-11-13 18:02:22,438  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 18:02:28,361  INFO [main] LogReports:28 - Application opened...
+2019-11-13 18:02:30,992  INFO [main] LogReports:28 - clicked on home
+2019-11-13 18:02:31,192  INFO [main] LogReports:28 - home validated
+2019-11-13 18:02:33,071  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 18:02:33,245  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 18:02:38,834  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 18:02:39,009  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 18:02:40,423  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 18:02:40,598  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 18:02:44,226  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 18:02:44,396  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 18:02:45,475  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 18:02:45,637  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 18:03:02,923  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 18:03:07,076  INFO [main] LogReports:28 - Application opened...
+2019-11-13 18:03:08,280  INFO [main] LogReports:28 - clicked on home
+2019-11-13 18:03:08,454  INFO [main] LogReports:28 - home validated
+2019-11-13 18:03:10,514  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 18:03:10,715  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 18:03:13,582  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 18:03:13,763  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 18:03:15,525  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 18:03:15,710  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 18:03:17,991  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 18:03:18,174  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 18:03:19,260  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 18:03:19,429  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 18:03:47,964  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 18:03:55,147  INFO [main] LogReports:28 - Application opened...
+2019-11-13 18:03:56,523  INFO [main] LogReports:28 - clicked on home
+2019-11-13 18:03:56,678  INFO [main] LogReports:28 - home validated
+2019-11-13 18:03:58,413  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 18:03:58,591  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 18:04:01,282  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 18:04:01,444  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 18:04:03,472  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 18:04:03,636  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 18:04:05,585  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 18:04:05,746  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 18:04:07,384  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 18:04:07,544  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 18:04:09,097  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 18:04:09,604  INFO [main] LogReports:28 - validated text
+2019-11-13 18:04:10,214  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 18:31:26,869  INFO [main] LogReports:28 - Chrome browser invoked...
+2019-11-13 18:31:28,905  INFO [main] LogReports:28 - Application opened...
+2019-11-13 18:31:30,368  INFO [main] LogReports:28 - clicked on home
+2019-11-13 18:31:30,522  INFO [main] LogReports:28 - home validated
+2019-11-13 18:31:33,293  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-13 18:31:33,481  INFO [main] LogReports:28 - sauce tab validated
+2019-11-13 18:31:35,679  INFO [main] LogReports:28 - clickced merchandise
+2019-11-13 18:31:35,832  INFO [main] LogReports:28 - merchandise tab validated
+2019-11-13 18:31:38,624  INFO [main] LogReports:28 - clicked clearance
+2019-11-13 18:31:38,803  INFO [main] LogReports:28 - clearance tab validated
+2019-11-13 18:31:40,640  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-13 18:31:40,801  INFO [main] LogReports:28 - validated sauce tab
+2019-11-13 18:31:42,997  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-13 18:31:43,191  INFO [main] LogReports:28 - validated faq tab
+2019-11-13 18:31:45,159  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-13 18:31:45,342  INFO [main] LogReports:28 - validated text
+2019-11-13 18:31:45,779  INFO [main] LogReports:28 - clicked on buy now
+2019-11-13 18:31:46,482  INFO [main] LogReports:28 - selected color
+2019-11-13 18:31:47,338  INFO [main] LogReports:28 - selected size
+2019-11-13 18:31:48,196  INFO [main] LogReports:28 - selected name
+2019-11-13 18:31:48,588  INFO [main] LogReports:28 - entered personalised name
+2019-11-13 18:31:49,289  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-13 18:31:50,153  INFO [main] LogReports:28 -  matches
+2019-11-13 18:31:50,306  INFO [main] LogReports:28 -  matches
+2019-11-13 18:31:50,464  INFO [main] LogReports:28 -  matches
+2019-11-13 18:31:50,614  INFO [main] LogReports:28 - matches
+2019-11-13 18:31:50,766  INFO [main] LogReports:28 - matches
+2019-11-13 18:31:52,184  INFO [main] LogReports:28 -  matches
+2019-11-14 15:44:44,531  INFO [main] LogReports:28 - Application is open...
+2019-11-14 15:44:44,567  INFO [main] LogReports:28 - Browser opened
+2019-11-14 15:46:09,312  INFO [main] LogReports:28 - Application is open...
+2019-11-14 15:46:09,340  INFO [main] LogReports:28 - Browser opened
+2019-11-14 15:47:26,663  INFO [main] LogReports:28 - Application is open...
+2019-11-14 15:47:26,695  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:00:06,793  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:00:06,814  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:06:46,580  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:06:46,604  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:10:21,861  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:10:21,878  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:10:23,032  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 16:12:02,487  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:12:02,506  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:12:13,977  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 16:12:14,029  INFO [main] LogReports:28 - home tab validated
+2019-11-14 16:27:43,499  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:27:43,540  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:27:44,382  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 16:27:44,433  INFO [main] LogReports:28 - home tab validated
+2019-11-14 16:27:47,760  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 16:28:55,112  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:28:55,133  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:28:56,068  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 16:28:56,122  INFO [main] LogReports:28 - home tab validated
+2019-11-14 16:28:58,085  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 16:34:11,219  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:34:11,245  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:34:12,116  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 16:34:12,171  INFO [main] LogReports:28 - home tab validated
+2019-11-14 16:34:13,184  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 16:34:14,762  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 16:35:37,732  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:35:37,756  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:35:39,761  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 16:35:39,817  INFO [main] LogReports:28 - home tab validated
+2019-11-14 16:35:44,795  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 16:35:46,618  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 16:35:48,482  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 16:35:50,710  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 16:35:51,639  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 16:36:17,989  INFO [main] LogReports:28 - Application is open...
+2019-11-14 16:36:18,026  INFO [main] LogReports:28 - Browser opened
+2019-11-14 16:36:22,714  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 16:36:22,782  INFO [main] LogReports:28 - home tab validated
+2019-11-14 16:36:25,063  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 16:36:30,452  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 16:36:31,138  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 16:36:32,139  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 16:36:37,286  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:10:24,446  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:10:24,486  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:10:25,525  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:10:25,595  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:10:33,800  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:10:38,812  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:10:42,956  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:10:53,864  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:10:57,456  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:11:02,448  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:11:02,508  INFO [main] LogReports:28 - validated text
+2019-11-14 17:11:02,681  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:11:02,858  INFO [main] LogReports:28 - selected color
+2019-11-14 17:11:02,956  INFO [main] LogReports:28 - selected size
+2019-11-14 17:11:03,057  INFO [main] LogReports:28 - selected name
+2019-11-14 17:11:03,141  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:11:03,270  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:24:48,020  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:24:48,043  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:24:48,786  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:24:48,846  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:24:50,486  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:24:52,385  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:24:53,297  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:24:54,704  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:24:55,321  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:24:56,448  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:24:56,498  INFO [main] LogReports:28 - validated text
+2019-11-14 17:24:56,686  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:24:56,860  INFO [main] LogReports:28 - selected color
+2019-11-14 17:24:56,958  INFO [main] LogReports:28 - selected size
+2019-11-14 17:24:57,060  INFO [main] LogReports:28 - selected name
+2019-11-14 17:24:57,140  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:24:57,243  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:24:57,483  INFO [main] LogReports:28 -  matches
+2019-11-14 17:24:57,545  INFO [main] LogReports:28 -  matches
+2019-11-14 17:24:57,605  INFO [main] LogReports:28 -  matches
+2019-11-14 17:24:57,668  INFO [main] LogReports:28 - matches
+2019-11-14 17:24:57,728  INFO [main] LogReports:28 - matches
+2019-11-14 17:33:50,480  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:33:50,503  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:33:51,743  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:33:51,809  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:33:53,445  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:33:54,302  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:33:56,062  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:33:57,943  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:33:59,489  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:34:01,136  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:34:01,199  INFO [main] LogReports:28 - validated text
+2019-11-14 17:34:01,349  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:34:01,497  INFO [main] LogReports:28 - selected color
+2019-11-14 17:34:01,597  INFO [main] LogReports:28 - selected size
+2019-11-14 17:34:01,696  INFO [main] LogReports:28 - selected name
+2019-11-14 17:34:01,779  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:34:01,895  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:34:02,123  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:35:24,609  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:35:24,634  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:35:29,213  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:35:29,278  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:35:32,879  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:35:41,117  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:35:42,588  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:35:43,369  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:35:44,898  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:35:47,734  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:35:47,798  INFO [main] LogReports:28 - validated text
+2019-11-14 17:35:47,964  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:35:48,177  INFO [main] LogReports:28 - selected color
+2019-11-14 17:35:48,289  INFO [main] LogReports:28 - selected size
+2019-11-14 17:35:48,409  INFO [main] LogReports:28 - selected name
+2019-11-14 17:35:48,503  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:35:48,633  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:35:48,750  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:35:48,869  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:38:19,414  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:38:19,438  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:38:20,865  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:38:20,914  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:38:26,000  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:38:27,219  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:38:29,143  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:38:38,632  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:38:39,782  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:38:40,775  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:38:40,836  INFO [main] LogReports:28 - validated text
+2019-11-14 17:38:41,001  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:38:41,176  INFO [main] LogReports:28 - selected color
+2019-11-14 17:38:41,271  INFO [main] LogReports:28 - selected size
+2019-11-14 17:38:41,375  INFO [main] LogReports:28 - selected name
+2019-11-14 17:38:41,457  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:38:41,565  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:38:41,774  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:40:33,203  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:40:33,232  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:40:35,140  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:40:35,189  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:40:36,236  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:40:37,103  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:40:51,434  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:40:52,554  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:40:53,092  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:40:53,988  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:40:54,049  INFO [main] LogReports:28 - validated text
+2019-11-14 17:40:54,199  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:40:54,392  INFO [main] LogReports:28 - selected color
+2019-11-14 17:40:54,492  INFO [main] LogReports:28 - selected size
+2019-11-14 17:40:54,592  INFO [main] LogReports:28 - selected name
+2019-11-14 17:40:54,675  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:40:54,775  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:40:55,012  INFO [main] LogReports:28 -  matches
+2019-11-14 17:40:55,077  INFO [main] LogReports:28 -  matches
+2019-11-14 17:40:55,148  INFO [main] LogReports:28 -  matches
+2019-11-14 17:40:55,208  INFO [main] LogReports:28 - matches
+2019-11-14 17:40:55,267  INFO [main] LogReports:28 - matches
+2019-11-14 17:41:38,583  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:41:38,616  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:41:39,381  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:41:39,427  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:41:40,642  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:41:41,679  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:41:42,622  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:41:43,934  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:41:44,635  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:41:55,420  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:41:55,490  INFO [main] LogReports:28 - validated text
+2019-11-14 17:41:55,634  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:41:55,773  INFO [main] LogReports:28 - selected color
+2019-11-14 17:41:55,873  INFO [main] LogReports:28 - selected size
+2019-11-14 17:41:55,975  INFO [main] LogReports:28 - selected name
+2019-11-14 17:41:56,060  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:41:56,176  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:41:56,287  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:41:56,384  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:42:47,197  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:42:47,238  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:42:48,137  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:42:48,183  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:42:50,492  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:42:52,564  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:42:56,191  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:42:56,945  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:42:58,228  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:43:13,328  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:43:13,391  INFO [main] LogReports:28 - validated text
+2019-11-14 17:43:13,525  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:43:13,659  INFO [main] LogReports:28 - selected color
+2019-11-14 17:43:13,761  INFO [main] LogReports:28 - selected size
+2019-11-14 17:43:13,860  INFO [main] LogReports:28 - selected name
+2019-11-14 17:43:13,942  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:43:14,050  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:43:14,163  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:43:14,248  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:45:36,863  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:45:36,888  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:45:37,616  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:45:37,667  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:45:40,928  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:45:42,693  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:45:44,019  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:45:44,802  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:45:45,263  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:45:47,513  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:45:47,570  INFO [main] LogReports:28 - validated text
+2019-11-14 17:45:47,722  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:45:47,854  INFO [main] LogReports:28 - selected color
+2019-11-14 17:45:47,963  INFO [main] LogReports:28 - selected size
+2019-11-14 17:45:48,065  INFO [main] LogReports:28 - selected name
+2019-11-14 17:45:48,150  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:45:48,265  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:45:48,377  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:45:48,478  INFO [main] LogReports:28 - Element not clicked
+2019-11-14 17:53:44,189  INFO [main] LogReports:28 - Application is open...
+2019-11-14 17:53:44,214  INFO [main] LogReports:28 - Browser opened
+2019-11-14 17:53:47,225  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 17:53:47,285  INFO [main] LogReports:28 - home tab validated
+2019-11-14 17:53:48,769  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 17:53:49,690  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 17:53:50,444  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 17:53:51,386  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 17:53:52,344  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 17:53:54,068  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 17:53:54,130  INFO [main] LogReports:28 - validated text
+2019-11-14 17:53:54,277  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 17:53:54,419  INFO [main] LogReports:28 - selected color
+2019-11-14 17:53:54,528  INFO [main] LogReports:28 - selected size
+2019-11-14 17:53:54,626  INFO [main] LogReports:28 - selected name
+2019-11-14 17:53:54,716  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 17:53:54,834  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 17:53:55,079  INFO [main] LogReports:28 -  matches
+2019-11-14 17:53:55,143  INFO [main] LogReports:28 -  matches
+2019-11-14 17:53:55,211  INFO [main] LogReports:28 -  matches
+2019-11-14 17:53:55,269  INFO [main] LogReports:28 - matches
+2019-11-14 17:53:55,329  INFO [main] LogReports:28 - matches
+2019-11-14 18:33:49,076  INFO [main] LogReports:28 - Application is open...
+2019-11-14 18:33:49,139  INFO [main] LogReports:28 - Browser opened
+2019-11-14 18:33:50,166  INFO [main] LogReports:28 - clicked on HOME MENU
+2019-11-14 18:33:50,437  INFO [main] LogReports:28 - home tab validated
+2019-11-14 18:33:53,042  INFO [main] LogReports:28 - clicked on hot sauces
+2019-11-14 18:33:54,228  INFO [main] LogReports:28 - clickced merchandise
+2019-11-14 18:33:54,905  INFO [main] LogReports:28 - clicked clearance
+2019-11-14 18:33:57,416  INFO [main] LogReports:28 - clicked on sauce tab
+2019-11-14 18:33:58,230  INFO [main] LogReports:28 - clicked on FAQ
+2019-11-14 18:34:00,875  INFO [main] LogReports:28 - clicked on merchandise
+2019-11-14 18:34:00,955  INFO [main] LogReports:28 - validated text
+2019-11-14 18:34:01,169  INFO [main] LogReports:28 - clicked on buy now
+2019-11-14 18:34:01,304  INFO [main] LogReports:28 - selected color
+2019-11-14 18:34:01,404  INFO [main] LogReports:28 - selected size
+2019-11-14 18:34:01,504  INFO [main] LogReports:28 - selected name
+2019-11-14 18:34:01,590  INFO [main] LogReports:28 - entered personalised name
+2019-11-14 18:34:01,705  INFO [main] LogReports:28 - Clicked on buynow
+2019-11-14 18:34:01,946  INFO [main] LogReports:28 -  matches
+2019-11-14 18:34:02,013  INFO [main] LogReports:28 -  matches
+2019-11-14 18:34:02,072  INFO [main] LogReports:28 -  matches
+2019-11-14 18:34:02,142  INFO [main] LogReports:28 - matches
+2019-11-14 18:34:02,220  INFO [main] LogReports:28 - matches
